@@ -9,4 +9,4 @@ Langage :
 Java et UML.
 
 Auteur :
-Dudon Adrien (Deewens) & Arthur François.
+Dudon Adrien (Deewens) & Arthur François (Arthur57255 - https://github.com/Arthur57255).
