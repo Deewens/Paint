@@ -4,7 +4,7 @@
 
 > Screenshots available below
 
-A little Java Paint where you can create various shape like Triangles, rectangles, circles, ellipses, arcs, quadrangles, ...
+A little Java Paint where you can create various shapes like triangles, rectangles, circles, ellipses, arcs, quadrangles, ...
 
 ## Features
 
