@@ -13,6 +13,9 @@ A little Java Paint where you can create various shape like Triangles, rectangle
 * Move shapes
 * Change shapes color and size
 
+## Technologies used
+Java, AWT and Swing.
+
 ## Authors
 * Deewens
 * Arthur (https://github.com/Arthur57255)
@@ -31,6 +34,9 @@ Un programme de dessin type Paint où vous pouvez créer différentes formes com
 * Sauvegarder le dessin
 * Déplacer les formes
 * Changer la couleur et la taille des formes
+
+## Technologies utilisées
+Java, AWT et Swing.
 
 ## Auteurs
 * Deewens
